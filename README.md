@@ -22,6 +22,6 @@ These searches presented some duplicate results, which were removed by a simple 
 * Studies must not be a Master or PhD thesis
 * Studies must be fully available from one or more online library
 
-We do not limit our search by publication venue (All conferences, journals, and magazines that are available from these sources were accepted) The complete list of papers selected for our API Evolution study can be found in the file "primary_studies.xlsx" in this repository.
+We do not limit our search by publication venue (All conferences, journals, and magazines that are available from these sources were accepted) The complete list of papers selected for our Microservices Identification study can be found in the file "primary_studies.xlsx" in this repository.
 
 Our approach may have missed some papers that indeed do represent the field. If one of your papers was not used, we sincerely apologize.
